@@ -1,0 +1,13 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.exe
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.genruntimeconfig.cache
